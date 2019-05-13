@@ -1,8 +1,7 @@
-# SDETtest - Java test framework 
+Java test - API Integration tests  
 
 ## Description
-This is the test solution for the #SDETtest Challenge. 
-Here I implemented 2 API tests accordingly to the challenge specification. 
+Here I implemented 2 API tests: 
 
  
 #### Test Scenarios: 
