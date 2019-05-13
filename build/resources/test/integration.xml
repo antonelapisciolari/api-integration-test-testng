@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NASA API Testing" parallel="classes" thread-count="20" time-out="1800000">
+    <test name="NASA API Tests">
+        <packages>
+            <package name="tests.nasaTests.*"/>
+        </packages>
+    </test>
+</suite>
